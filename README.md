@@ -101,14 +101,19 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-########## Team Members & Roles ##############
-Omar : InceptionV3 model implementation
-Mostafa Fouad:ResNet50 model implementation
-Mahmoud Ehab : EfficientNetB0 model implementation
-Mahmoud Mohamed :Real-time webcam gesture recognition
-Mostafa :Grad-CAM visualization 
-Nour : GUI development 
-ة
+##  Team Members & Roles
+
+| Name | Role |
+|------|------|
+| Omar | InceptionV3 model implementation |
+| Mostafa Fouad | ResNet50 model implementation |
+| Mahmoud Ehab | EfficientNetB0 model implementation |
+| Mahmoud Mohamed | Real-time webcam gesture recognition |
+| Mostafa | Grad-CAM visualization |
+| Nour | GUI development |
+
+
+
 
 
 
