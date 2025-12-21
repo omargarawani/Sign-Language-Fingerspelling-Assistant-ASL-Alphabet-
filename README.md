@@ -1,5 +1,3 @@
-# Gesture Classification Using Deep Learning
-
 ## Project Overview
 This project focuses on classifying hand gestures using deep learning models.
 The system is trained on hand gesture images and is capable of performing both
@@ -98,19 +96,22 @@ A graphical user interface allows users to:
 - Scikit-learn
 
 Install dependencies:
+
 ```bash
 pip install -r requirements.txt
+```
 
-##  Team Members & Roles
-
-| Name | Role |
-|------|------|
-| Omar | InceptionV3 model implementation |
-| Mostafa Fouad | ResNet50 model implementation |
-| Mahmoud Ehab | EfficientNetB0 model implementation |
+| Name            | Role                                 |
+| --------------- | ------------------------------------ |
+| Omar            | InceptionV3 model implementation     |
+| Mostafa Fouad   | ResNet50 model implementation        |
+| Mahmoud Ehab    | EfficientNetB0 model implementation  |
 | Mahmoud Mohamed | Real-time webcam gesture recognition |
-| Mostafa | Grad-CAM visualization |
-| Nour | GUI development |
+| Mostafa         | Grad-CAM visualization               |
+| Nour            | GUI development                      |
+
+
+
 
 
 
