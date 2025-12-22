@@ -72,6 +72,8 @@ Models Comparison
 
 ![WhatsApp Image 2025-12-22 at 10 14 50 AM comparison](https://github.com/user-attachments/assets/1223705f-acba-4658-9fd0-2e981a37b0c1)
 
+![WhatsApp Image 2025-12-22 at 10 14 52 AM comparison macros](https://github.com/user-attachments/assets/a69d478e-8f51-48c5-9b98-e613fd0d3b75)
+
 
 ---
 
@@ -126,6 +128,7 @@ pip install -r requirements.txt
 | Mahmoud Mohamed | Real-time webcam gesture recognition |
 | Mostafa Mahmoud | Grad-CAM and Models evaluation       |
 | Nour            | GUI development                      |
+
 
 
 
