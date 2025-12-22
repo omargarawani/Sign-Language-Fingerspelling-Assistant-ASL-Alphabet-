@@ -44,7 +44,7 @@ To improve model generalization, the following techniques were applied:
 The following deep learning models were implemented and evaluated:
 - InceptionV3  (97%)
 - ResNet50      (96%)
-- EfficientNetB0  (98.70%)
+- EfficientNetB0  (92%)
 
 ---
 
@@ -109,6 +109,7 @@ pip install -r requirements.txt
 | Mahmoud Mohamed | Real-time webcam gesture recognition |
 | Mostafa         | Grad-CAM visualization               |
 | Nour            | GUI development                      |
+
 
 
 
