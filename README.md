@@ -57,6 +57,7 @@ accuracy and computational efficiency.
 
 
 Resnet 
+
 ![WhatsApp Image 2025-12-22 at 10 14 49 AM](https://github.com/user-attachments/assets/1fa30564-d35c-4d1c-8d11-7a36a03d6140)
 
 inception 
@@ -64,13 +65,12 @@ inception
 ![WhatsApp Image 2025-12-22 at 10 14 50 AM inception ](https://github.com/user-attachments/assets/63309212-11ee-45b4-b3f8-05e8de7e563f)
 
 Efficient
+
 ![WhatsApp Image 2025-12-22 at 10 14 51 AM  EFFETIONT](https://github.com/user-attachments/assets/06fa2eea-5a23-44db-b42a-15ab3ba086ff)
 
 Models Comparison
+
 ![WhatsApp Image 2025-12-22 at 10 14 50 AM comparison](https://github.com/user-attachments/assets/1223705f-acba-4658-9fd0-2e981a37b0c1)
-
-
-
 
 
 ---
@@ -123,9 +123,10 @@ pip install -r requirements.txt
 | Omar            | InceptionV3 model implementation     |
 | Mostafa Fouad   | ResNet50 model implementation        |
 | Mahmoud Ehab    | EfficientNetB0 model implementation  |
-| Mahmoud Mohamed | webcam and models evaluation         |
-| Mostafa         | Grad-CAM visualization               |
+| Mahmoud Mohamed | Real-time webcam gesture recognition |
+| Mostafa Mahmoud | Grad-CAM and Models evaluation       |
 | Nour            | GUI development                      |
+
 
 
 
